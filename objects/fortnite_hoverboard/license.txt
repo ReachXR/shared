@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fortnite Hoverboard
+* source:	https://sketchfab.com/3d-models/fortnite-hoverboard-3d011da593dc49b788be5675a1ad5541
+* author:	Whitend (https://sketchfab.com/whitend.3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fortnite Hoverboard" (https://sketchfab.com/3d-models/fortnite-hoverboard-3d011da593dc49b788be5675a1ad5541) by Whitend (https://sketchfab.com/whitend.3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
